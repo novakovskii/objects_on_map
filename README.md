@@ -1,4 +1,4 @@
-# map-object-select-refact
+# objects_on_map
 
 ## Project setup
 ```
